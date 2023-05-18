@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
   # 🌼 About Me
   
-  <a href="https://www.instagram.com/bya0418/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/bya0418-FE2EF7?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+  <a href="https://baehyeona.github.io/" target="_blank"><img src="https://img.shields.io/badge/blog-F5BCA9?style=flat-square&logo=Adafruit&logoColor=FFFFFF"/></a>
+  <a href="https://www.instagram.com/bya0418/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/bya0418-F781F3?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://ninth-guitar-225.notion.site/Portfolio-63dcd8c1438e4ce8bc0cfb276b8e25a1" target="_blank"><img src="https://img.shields.io/badge/HyeonA-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
   <a href="https://www.linkedin.com/in/hyeon02/" target="_blank"><img src="https://img.shields.io/badge/HyeonABae-0A66C2?style=flat-square&logo=Linkedin&logoColor=FFFFFF"/></a>
   
