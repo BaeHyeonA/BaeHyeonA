@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeHyeonA&show_icons=true&theme=gruvbox_light)
 
 
@@ -28,4 +27,3 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.instagram.com/bya0418/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/bya0418-FFFFFF?style=flat-square&logo=Instagram&logoColor=FE2EF7"/></a>
-</p>
