@@ -1,5 +1,3 @@
-### Hi! I'm HyeonA! 👋
-
 <!--
 **BaeHyeonA/BaeHyeonA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/bya0418/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/bya0418-FE2EF7?style=flat-square&logo=Instagram&logoColor=white"/></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3E2A9&height=230&section=header&text=HyeonA%20Bae&fontSize=60&fontColor=FFFFFF)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeHyeonA&show_icons=true&theme=gruvbox_light)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaeHyeonA&count_bg=%23FFD284&title_bg=%23B2B2B2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+<a href="https://www.instagram.com/bya0418/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/bya0418-FFFFFF?style=flat-square&logo=Instagram&logoColor=FE2EF7"/></a>
