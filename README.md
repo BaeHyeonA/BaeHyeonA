@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=F3E2A9&height=230&section=header&text=HyeonA%20Bae&fontSize=60&fontColor=FFFFFF)
 
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3E2A9&height=230&section=header&text=HyeonA%20Bae&fontSize=60&fontColor=FFFFFF)
 
 
 
@@ -27,3 +29,4 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.instagram.com/bya0418/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/bya0418-FFFFFF?style=flat-square&logo=Instagram&logoColor=FE2EF7"/></a>
+</div>
